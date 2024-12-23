@@ -11,6 +11,7 @@ This project is part of the **Transport Network Design** course offered by the I
 
 ### Network Design
 - Planned and designed the network topology.
+![Network Topology](tnd_topology.png)
 - Created IP addressing tables for WAN connections, ISP and public IPs, and the Palpa branch.
 
 ### Basic Configuration
